@@ -3,7 +3,7 @@ package main.test;
 public class Greeter {
 
 	public String sayGreetings() {
-		return "Olá World!";
+		return "Olá Mundo";
 	}
 	
 	public String yellGreetings() {
